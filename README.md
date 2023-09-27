@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @helali1993
 - 👀 I’m interested in Mathematics, Numerical Analysis.
-- 🌱 I’m currently learning Analysis, Linear ALgebra, Matlab.
+- 🌱 I’m currently learning Analysis, Linear Algebra, Matlab.
 - 💞️ I’m looking to collaborate on whatever :D
 - 📫 Reach me on helali1993@gmail.com
 
