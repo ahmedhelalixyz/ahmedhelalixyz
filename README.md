@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmedhelalixyz
-- 👀 I’m interested in Mathematics and Data Science.
-- 🌱 I’m currently learning Vector and Complex Analysis, Graph Theory and Knot Theory.
-- 💞️ I’m looking to collaborate on whatever :D
+- 👀 I’m interested in Math and Tech.
+- 🌱 I’m currently learning Functional Analysis, Probability Theory and Commutitave Algebra.
+- 💞️ I’m currently collaborating on EUDR.app.
 - 📫 Reach me on ahmed@ahmedhelali.xyz
 
 <!---
