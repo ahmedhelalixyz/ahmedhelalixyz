@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedhelalixyz
 - 👀 I’m interested in Math and Tech.
-- 🌱 I’m currently learning Functional Analysis, Probability Theory & Commutitave Algebra.
+- 🌱 I’m currently learning about Dynamical Systems, Graph Theory, Topology & Commutitave Algebra.
 - 📫 Reach me on ahmed@ahmedhelali.xyz
 
 <!---
